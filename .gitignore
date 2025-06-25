@@ -1,0 +1,19 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata
+
+# SwiftPM
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# SwiftLint
+.swiftlint.yml
